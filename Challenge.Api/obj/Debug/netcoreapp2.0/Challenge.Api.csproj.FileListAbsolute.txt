@@ -1,0 +1,11 @@
+C:\Users\daiane.azevedo\Documents\Repository\Challenge\Challenge.Api\bin\Debug\netcoreapp2.0\Challenge.Api.deps.json
+C:\Users\daiane.azevedo\Documents\Repository\Challenge\Challenge.Api\bin\Debug\netcoreapp2.0\Challenge.Api.runtimeconfig.json
+C:\Users\daiane.azevedo\Documents\Repository\Challenge\Challenge.Api\bin\Debug\netcoreapp2.0\Challenge.Api.runtimeconfig.dev.json
+C:\Users\daiane.azevedo\Documents\Repository\Challenge\Challenge.Api\bin\Debug\netcoreapp2.0\Challenge.Api.dll
+C:\Users\daiane.azevedo\Documents\Repository\Challenge\Challenge.Api\obj\Debug\netcoreapp2.0\Challenge.Api.csprojResolveAssemblyReference.cache
+C:\Users\daiane.azevedo\Documents\Repository\Challenge\Challenge.Api\obj\Debug\netcoreapp2.0\Challenge.Api.csproj.CoreCompileInputs.cache
+C:\Users\daiane.azevedo\Documents\Repository\Challenge\Challenge.Api\obj\Debug\netcoreapp2.0\Challenge.Api.AssemblyInfoInputs.cache
+C:\Users\daiane.azevedo\Documents\Repository\Challenge\Challenge.Api\obj\Debug\netcoreapp2.0\Challenge.Api.AssemblyInfo.cs
+C:\Users\daiane.azevedo\Documents\Repository\Challenge\Challenge.Api\bin\Debug\netcoreapp2.0\Challenge.Api.pdb
+C:\Users\daiane.azevedo\Documents\Repository\Challenge\Challenge.Api\obj\Debug\netcoreapp2.0\Challenge.Api.dll
+C:\Users\daiane.azevedo\Documents\Repository\Challenge\Challenge.Api\obj\Debug\netcoreapp2.0\Challenge.Api.pdb

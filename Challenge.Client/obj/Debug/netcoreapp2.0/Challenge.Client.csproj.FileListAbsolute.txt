@@ -1,0 +1,11 @@
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.Client\bin\Debug\netcoreapp2.0\Challenge.Client.deps.json
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.Client\bin\Debug\netcoreapp2.0\Challenge.Client.runtimeconfig.json
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.Client\bin\Debug\netcoreapp2.0\Challenge.Client.runtimeconfig.dev.json
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.Client\bin\Debug\netcoreapp2.0\Challenge.Client.dll
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.Client\bin\Debug\netcoreapp2.0\Challenge.Client.pdb
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.Client\obj\Debug\netcoreapp2.0\Challenge.Client.csprojResolveAssemblyReference.cache
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.Client\obj\Debug\netcoreapp2.0\Challenge.Client.csproj.CoreCompileInputs.cache
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.Client\obj\Debug\netcoreapp2.0\Challenge.Client.AssemblyInfoInputs.cache
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.Client\obj\Debug\netcoreapp2.0\Challenge.Client.AssemblyInfo.cs
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.Client\obj\Debug\netcoreapp2.0\Challenge.Client.dll
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.Client\obj\Debug\netcoreapp2.0\Challenge.Client.pdb

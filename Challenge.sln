@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge.Api", "Challenge.Api\Challenge.Api.csproj", "{F72C1F83-13C4-4E42-AF22-AD03079CAED8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge.Api", "Challenge.Api\Challenge.Api.csproj", "{F72C1F83-13C4-4E42-AF22-AD03079CAED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge.SDK", "Challenge.SDK\Challenge.SDK.csproj", "{55C6F4FB-E226-4DDC-B211-74601C9CC514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge.Client", "Challenge.Client\Challenge.Client.csproj", "{6D875274-177A-4FD5-93AC-D3DD9380839A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{F72C1F83-13C4-4E42-AF22-AD03079CAED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F72C1F83-13C4-4E42-AF22-AD03079CAED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F72C1F83-13C4-4E42-AF22-AD03079CAED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C6F4FB-E226-4DDC-B211-74601C9CC514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C6F4FB-E226-4DDC-B211-74601C9CC514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C6F4FB-E226-4DDC-B211-74601C9CC514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C6F4FB-E226-4DDC-B211-74601C9CC514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D875274-177A-4FD5-93AC-D3DD9380839A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D875274-177A-4FD5-93AC-D3DD9380839A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D875274-177A-4FD5-93AC-D3DD9380839A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D875274-177A-4FD5-93AC-D3DD9380839A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

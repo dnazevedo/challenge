@@ -17,9 +17,7 @@ namespace Challenge.Api.Processors
         {
             var result = System.Text.Encoding.UTF8.GetString(message);
 
-            var writer = new StreamWriter(File.Create("C:\\Users\\daiane.azevedo\\Documents\\\\Challenge.txt"));
-            writer.WriteLine(result);
-            writer.Dispose();
+            File.AppendAllLines("C:\\Users\\daiane.azevedo\\Documents\\\\Challenge.txt", new[] { result });
         }
     }
 }

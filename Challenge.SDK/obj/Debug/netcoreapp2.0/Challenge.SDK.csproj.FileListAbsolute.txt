@@ -1,0 +1,8 @@
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.SDK\bin\Debug\netcoreapp2.0\Challenge.SDK.deps.json
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.SDK\bin\Debug\netcoreapp2.0\Challenge.SDK.dll
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.SDK\bin\Debug\netcoreapp2.0\Challenge.SDK.pdb
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.SDK\obj\Debug\netcoreapp2.0\Challenge.SDK.csproj.CoreCompileInputs.cache
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.SDK\obj\Debug\netcoreapp2.0\Challenge.SDK.AssemblyInfoInputs.cache
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.SDK\obj\Debug\netcoreapp2.0\Challenge.SDK.AssemblyInfo.cs
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.SDK\obj\Debug\netcoreapp2.0\Challenge.SDK.dll
+C:\Users\daiane.azevedo\Documents\Repository\challenge\Challenge.SDK\obj\Debug\netcoreapp2.0\Challenge.SDK.pdb

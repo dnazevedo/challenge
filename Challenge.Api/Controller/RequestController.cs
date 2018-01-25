@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Challenge.SDK.RequestInputs;
+using Microsoft.AspNetCore.Mvc;
 using RabbitMQ.Client;
 
 namespace Challenge.Api.Controller 
@@ -18,9 +19,12 @@ namespace Challenge.Api.Controller
         {
             var messageBodyBytes = System.Text.Encoding.UTF8.GetBytes(request.Text);
 
-            _channel.BasicPublish("Challenge", "write-txt", null, messageBodyBytes);
+            var exchange = Request.Headers["exchange"];
+            var route = Request.Headers["route-key"];
 
-            return Accepted();
+            _channel.BasicPublish(exchange, route, null, messageBodyBytes);
+
+            return Accepted("Challenge.txt");
         }
     }
 }

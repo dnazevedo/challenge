@@ -16,6 +16,7 @@ namespace Challenge.Api
     public class Startup
     {
         private string _exchangeName = "Challenge";
+
         private readonly IModel _channel;
 
         public IConfigurationRoot Configuration { get; set; }
@@ -52,12 +53,11 @@ namespace Challenge.Api
 
         private void ConfigureConsumer(string queueName)
         {
-            var textProcessor = new TextProcessor(_channel);
-
             var consumer = new EventingBasicConsumer(_channel);
             consumer.Received += (ch, ea) =>
             {
                 var body = ea.Body;
+                var textProcessor = new TextProcessor(_channel);
                 textProcessor.Process(body);
                 _channel.BasicAck(ea.DeliveryTag, false);
             };
